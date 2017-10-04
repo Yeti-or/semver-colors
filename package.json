@@ -1,0 +1,23 @@
+{
+  "name": "semver-colors",
+  "version": "0.0.0",
+  "description": "generate colors by semver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeti-or/semver-colors.git"
+  },
+  "keywords": [
+    "semver",
+    "colors"
+  ],
+  "author": "Vasiliy Loginevskiy <yeti.or@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yeti-or/semver-colors/issues"
+  },
+  "homepage": "https://github.com/Yeti-or/semver-colors#readme"
+}
